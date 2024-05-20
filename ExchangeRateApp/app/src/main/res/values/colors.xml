@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#0d47a1</color>
+    <color name="secondaryColor">#1976d2</color>
+
+    <color name="firstColor">#FCAAF7</color>
+    <color name="SColor">#E8477A</color>
+    <color name="thirdolor">#EE82EE</color>
+    <color name="fourthColor">#F4A460</color>
+    <color name="fivethColor">#90EE90</color>
+
+    <color name="accentColor">#42a5f5</color>
+    <color name="textColor">#ffffff</color>
+</resources>
